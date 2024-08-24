@@ -73,10 +73,3 @@ I enjoy writing documentation on various topics, including:
 ## 📫 How to Reach Me
 
 - Email: [sarmadrafique040@gmail.com](mailto:sarmadrafqiue040@gmail.com)
-
-## 📈 GitHub Stats
-
-![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad426&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad426&layout=compact&theme=radical)
-
----

@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 I am a Full stack **Web, Cloud** and **Generative AI Engineer**. My passion is building **SEO** Friendly **AI** powered **Microservices** architecture Apps.
-I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud tools like **Docker, kubernetes, kong** for Cloud Native development. I integrate **Generative AI** into the apps to help automating the repetitive boring tasks.
+I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud tools like **Docker, kubernetes, kong** for Cloud Native development. I integrate **Generative AI** into the apps to build Chatbots, Custom GPT's and automating the repetitive boring tasks using GPT actions.
 
 ## 🛠️ Technologies & Tools
 

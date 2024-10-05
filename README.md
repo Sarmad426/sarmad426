@@ -1,12 +1,5 @@
 # Sarmad Rafique
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad426/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SarmadRafique2)
-
----
-
-## 🚀 About Me
-
 I am a Full stack **Web, Cloud** and **Generative AI Engineer**. My passion is building **SEO** Friendly **AI** powered **Microservices** architecture Apps.
 I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud tools like **Docker, kubernetes, kong** for Cloud Native development. I integrate **Generative AI** into the apps to build Chatbots and Custom GPT's, automate the tasks using GPT actions, Fine tune LLM's & more.
 
@@ -39,3 +32,8 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
+
+## Social Links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad426/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SarmadRafique2)

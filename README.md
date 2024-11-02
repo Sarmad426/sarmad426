@@ -5,7 +5,7 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
 
 ## 🛠️ Languages & Tools
 
-<div style='display:flex;gap:5px;flex-wrap:wrap;align-items: center;justify-content:start'>
+<!-- <div style='display:flex;gap:5px;flex-wrap:wrap;align-items: center;justify-content:start'> -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
@@ -41,7 +41,7 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
 
-</div>
+<!-- </div> -->
 
 ## 100 days of Github streak
 

@@ -33,6 +33,10 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
 
+## 100 days of Github streak
+
+![Github 100 days streak](github-streak.svg)
+
 ## Social Links
 
 [![LinkedInnextdotjs.svg](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad426/)

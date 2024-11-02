@@ -5,7 +5,7 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
 
 ## 🛠️ Languages & Tools
 
-<!-- <div style='display:flex;gap:5px;flex-wrap:wrap;align-items: center;justify-content:start'> -->
+<div style='display:flex; gap:5px;flex-wrap:wrap;align-items: center;justify-content:start'>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
@@ -31,8 +31,19 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
 <!-- ![Next js](nextjs.png) -->
 <!-- <img src='nextjs.png' alt='Next js' width='45' height='45'> -->
 
-![Next.js Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next.svg?raw=true#gh-light-mode-only)
-![Next.js Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next-dark.svg?raw=true#gh-dark-mode-only)
+<!-- <a href='https://nextjs.org/' rel='noreferrer'>
+<img
+src='https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next.svg?raw=true#gh-light-mode-only'
+ alt='Next js'> -->
+<!-- </a> -->
+<a href='https://nextjs.org/'>
+<img
+src='https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next-dark.svg?raw=true#gh-dark-mode-only'
+ alt='Next js'>
+</a>
+
+<!-- ![Next.js Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next.svg?raw=true#gh-light-mode-only)
+![Next.js Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next-dark.svg?raw=true#gh-dark-mode-only) -->
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
@@ -41,7 +52,7 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
 
-<!-- </div> -->
+</div>
 
 ## 100 days of Github streak
 

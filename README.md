@@ -6,6 +6,7 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
 ## 🛠️ Languages & Tools
 
 <div style='display:flex; gap:5px;flex-wrap:wrap;align-items: center;justify-content:start'>
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
@@ -28,7 +29,10 @@ I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud
 <a href='https://nextjs.org/'>
 <img
 src='https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next-dark.svg?raw=true#gh-dark-mode-only'
- alt='Next js'>
+ alt='Next js'
+ width='36'
+ height='36'
+/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">

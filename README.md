@@ -44,9 +44,11 @@ src='https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next-d
 
 </div>
 
-## 100 days of Github streak
+## Github streak
 
-![Github 100 days streak](github-streak.svg)
+<!-- ![Github 100 days streak](github-streak.svg) -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarmad426&theme=radical)
 
 ## Social Links
 

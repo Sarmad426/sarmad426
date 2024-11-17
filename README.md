@@ -1,7 +1,6 @@
 # Sarmad Rafique
 
-I am a Full stack **Web, Cloud** and **Generative AI Engineer**. My passion is building **SEO** Friendly **AI** powered **Microservices** architecture Apps.
-I build primarily with **MERN** stack, **Next js** and **Fast API**. I use Cloud tools like **Docker, kubernetes, kong** for Cloud Native development. I integrate **Generative AI** into the apps to build Chatbots and Custom GPT's, automate the tasks using GPT actions, Fine tune LLM's & more.
+I am a Full Stack **Web** and **Generative AI Engineer** passionate about building **SEO-friendly**, AI-powered **microservices** architecture applications. My primary tech stack includes the **MERN** stack, **Next.js**, and **FastAPI**. I use **Docker** to create production-ready, cloud-native applications. I specialize in integrating **Generative AI** to develop chatbots, custom GPT models, automate tasks with GPT-powered actions, fine-tune LLMs, and more.
 
 ## 🛠️ Languages & Tools
 

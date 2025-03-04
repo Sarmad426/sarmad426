@@ -43,9 +43,17 @@ src='https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next-d
 
 </div>
 
-## Github streak
+## 📈 GitHub Stats
 
-![Github 100 days streak](github-streak.svg)
+![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad426&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad426&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarmad426&theme=radical)
+
 <!-- 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarmad426&theme=radical) -->
 

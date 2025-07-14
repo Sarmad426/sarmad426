@@ -1,6 +1,18 @@
 # Sarmad Rafique
 
-I am a Full Stack **Web** and **Generative AI Engineer** passionate about building **SEO-friendly**, AI-powered **microservices** architecture applications. My primary tech stack includes the **MERN** stack, **Next.js**, and **FastAPI**. I use **Docker** to create production-ready, cloud-native applications. I specialize in integrating **Generative AI** to develop chatbots, custom GPT models, automate tasks with GPT-powered actions, fine-tune LLMs, and more.
+👋 Hi, I’m Sarmad Rafique — a full-stack engineer and founder of AISoftDevs, where we help businesses automate and scale with AI-powered software.
+
+I specialize in building intelligent systems — from custom AI agents and SaaS platforms to modern web and mobile applications. With a strong focus on AI, cloud-native architecture, and developer-first design, I turn ideas into smart, scalable products.
+
+💼 At AISoftDevs, I lead end-to-end development, from system design and architecture to shipping production-ready code. Whether it's automating workflows with AI or launching a full-stack product from scratch, I thrive on building solutions that drive real impact.
+
+🧠 I'm deeply interested in:
+
+- AI agents & Generative AI
+- Custom SaaS development
+- Developer tools & automation
+
+🎯 My goal? To empower businesses with technology that works — and to share what I learn along the way.
 
 ## 🛠️ Languages & Tools
 
